@@ -1,4 +1,4 @@
-# taller06
+# taller06 Andrea Alejandra Arias-Jorge Abraham Ayala 
 
 ### Problema01
 
